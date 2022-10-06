@@ -77,8 +77,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/HeroPageAnimationElliott\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/HeroPageAnimationElliott\/deploy\/index.html",
+      "oF" : 2
     },
     "\/HeroPageAnimationElliott\/dev\/js\/scripts.js" : {
       "bF" : 0,
